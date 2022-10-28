@@ -1,0 +1,6 @@
+git remote add origin http://your_url_here
+git remote remove origin
+
+
+*forcar limpar cach
+git rm -rf --cached .

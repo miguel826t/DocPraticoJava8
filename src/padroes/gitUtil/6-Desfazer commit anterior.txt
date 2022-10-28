@@ -1,0 +1,5 @@
+*Mantendo as alteracoes
+git reset --soft HEAD~1
+
+*Tirar as alteracoes tambem
+git reset --hard HEAD~1

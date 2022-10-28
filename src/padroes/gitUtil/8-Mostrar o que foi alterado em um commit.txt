@@ -1,0 +1,2 @@
+git show --stat HEAD~2
+git show --stat de319bbc8

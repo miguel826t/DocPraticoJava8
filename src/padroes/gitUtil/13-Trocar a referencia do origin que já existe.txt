@@ -1,0 +1,5 @@
+*
+Este commando troca o local do repositorio remoto
+Exemplo: Projeto-Beta -> Projeto-Final
+*
+git remote set -url origin git@github.com:XXXX/XXXX.git

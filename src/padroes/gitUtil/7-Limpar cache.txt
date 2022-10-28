@@ -1,0 +1,2 @@
+*forcar limpar cach
+git rm -rf --cached .

@@ -1,0 +1,9 @@
+***
+ CONFIGURAR O SSH ANTES!
+***
+git init
+git add .
+git commi -m "Criação do projeto"
+git branch -M main
+git remote add origin git@github.com:SeuUser/SeuRepositorio.git
+git push -u origin main
