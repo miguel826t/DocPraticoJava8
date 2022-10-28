@@ -1,0 +1,23 @@
+
+********
+DESLIGE A AUTO-INDENT DOS COMENTARIOS SE NÃO BUGA TUDO!
+ Window -> Java -> Code Style -> Formatter -> Edit -> Comments -> Desabilita tudo
+********
+
+
+Ctrl + 1 -> 
+	Solucao para erros
+Ctrl + Shift + F -> 
+	Identacao
+Ctrl + Alt + Seta para baixo ->
+	Faz uma copia da selecao do codigo para cima ou para baixo
+Ctrl + Shift + F
+	Organiza importacoes
+Alt + Shift + R
+	Renomear refartando
+Alt + Seta Up/Down
+	Mover linhas pelo codigo-fonte
+Alt+shift + S
+	Abre menu para codigos auto gerados
+
+

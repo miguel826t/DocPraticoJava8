@@ -1,0 +1,23 @@
+/**
+ * AUTHOR. M.R.C. - 05/22. INSTALLATION. VIMAN INFORMATICA LTDA.
+ * AUTHOR. M.R.C. - 05/22.
+ *
+ * Classe de XXXXXXXXX do sistema. TICKET: XXXXXXXX.
+ */
+
+/**
+ * Classe para XXXXXXXXXXXXXXX
+ * Metodos : XXXXXXXXXXXXXXXXX    
+ * Dependencias: XXXXXXXXXXXXX
+ * Obs: XXXXXXXXXXXXXXXXXXXXXX
+ * 
+ * AULA: XXXX
+ * TICKET: XXXXX.
+ */
+
+
+/* ======* Gera a criptografia *====== */
+// Entradas: xxx e xxxx
+// Saida : senha encriptada
+// xxxDESCRICAOxxxx
+
