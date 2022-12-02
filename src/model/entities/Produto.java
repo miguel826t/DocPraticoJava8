@@ -1,6 +1,7 @@
 package model.entities;
 
 import java.util.Objects;
+import java.util.function.Consumer;
 
 import javax.management.InvalidAttributeValueException;
 
@@ -78,8 +79,11 @@ public class Produto implements Comparable<Produto>{
 	public int compareTo(Produto p) {
 		return nome.toUpperCase().compareTo(p.nome.toUpperCase());
 	}
-	
-	
-	
-	
+
+	@Override
+	public String toString() {
+		return "Produto [nome=" + this.nome + ", estoque=" + this.estoque + ", preco=" + this.preco + "]";
+	}
+
+
 }
