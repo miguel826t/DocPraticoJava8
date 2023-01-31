@@ -2,6 +2,10 @@ package exemplos.files;
 
 import java.io.File;
 
+
+/**
+ * Metodos mais comuns usados no na classe File.
+ */
 public class GetsDoFile {
 
 	public static void main(String[] args) {
