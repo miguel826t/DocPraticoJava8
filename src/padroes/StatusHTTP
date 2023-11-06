@@ -1,0 +1,26 @@
+Link com lista de todos os tipos de status retornados:
+    https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
+    
+Principais Status:
+
+ (200)-Status de sucesso
+  200: OK
+  201: CRIADO (para metodos de criação)
+  204: Sem conteúdo no retorno (metodos como deleção)
+
+ (300)-Redirecionamento
+  301: Movido permanentemente (deve se retornar a nova localização)
+  302: Recurso existe mas foi movido temporariamente (deve se retornar a nova localização)
+  
+ (400)-Erro na requisição pelo lado do cliente
+  400: Requisição mal feita
+  401: Não autorizado (cliente não está autenticado)
+  403: Proibido (cliente não está autorizado a fazer essa ação)
+  404: Não encontrado (recurso solicitado não existe)
+  405: Método não permitido (tentar fazer um delete em um objeto que não é permitido isso)
+  406: Não aceito (cliente pediu um tipo de retorno na requisição mas não temos esse tipo)
+  
+ (500)-Erro na parte do servidor
+  500: Erro interno no servidor que não foi tratado (Exemplo: null point)
+  503: Serviço indisponivel (servidor indisponivel ou sobrecarregado)
+  

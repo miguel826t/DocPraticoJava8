@@ -1,0 +1,4 @@
+// Para organização do código:
+   -> Nomenclatura: NomeDaClasse seguido de Test no final (ConsultaTest)
+   -> Colocar as classes de teste na mesma estrutura de packages da classe testada, porem separadas fisicamente
+   
